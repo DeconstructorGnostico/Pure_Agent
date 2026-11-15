@@ -1,0 +1,3 @@
+1e9a0fcd470fa0cbca31a17b3d9d8adc200a2b7b249f58500e506860e0d029f2  seeds_test.py
+51f4467c0b55807a038add9f255908170ff8568551cab3a956bff3e650e91571  dataset_test.jsonl
+English edition 2026-11-15: seeds_test.py was re-hashed because identifiers were translated; case texts, labels and order are unchanged. Spanish original frozen 2026-11-14 03:43:47 MST: c3cfe8d29f567ff0328aae19646578bbd6d57f38b3aef3cb97def9c3d4e2cb34  semillas_test.py; original dataset_test.jsonl hash 0a1c021acf1ebb46d0a25c02430ceca128838d1ab4294352876244ba5126b17d (re-hashed here because JSON keys were translated; texts and labels unchanged).
